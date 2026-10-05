@@ -1,0 +1,23 @@
+# Roadmap - Mini Sistema de Gerenciamento de Roupas
+
+- [x] Analisar requisitos e arquitetura do projeto
+- [x] Criar estrutura de diretórios do Backend (`backend/`)
+- [x] Configurar Node.js, Express, CORS e dependências do Backend
+- [x] Configurar conexão com MongoDB (Mongoose + suporte a MONGODB_URI e fallback em memória)
+- [x] Criar model de Roupa com Mongoose e validações de esquema
+- [x] Criar controllers e rotas da API REST (`/api/roupas`)
+- [x] Implementar validações completas e tratamento de erros padronizado
+- [x] Configurar Vercel serverless no Backend (`vercel.json`)
+- [x] Implementar e executar suite de testes automatizados da API (Jest + Supertest - 16 testes aprovados)
+- [x] Inicializar repositório Git do Backend e realizar commits organizados
+- [x] Criar estrutura do Frontend (`frontend/`) com HTML5, CSS3 moderno e Vanilla JS
+- [x] Implementar interface do Frontend (listagem em cards, modal/formulário de cadastro e edição)
+- [x] Implementar diálogo de confirmação de exclusão e notificações visuais (toasts)
+- [x] Implementar estados da aplicação (carregamento, vazio, sucesso, erro da API)
+- [x] Integrar Frontend com a API do Backend
+- [x] Testar integração da API ponta a ponta (operações CRUD, validações 400, 404, 200, 201)
+- [x] Inicializar repositório Git do Frontend e realizar commits organizados
+- [x] Documentar API (`api.md`), READMEs de Backend e Frontend
+- [x] Preparar configurações de deploy na Vercel para Backend e Frontend
+- [x] Realizar validação dos critérios de conclusão do projeto
+- [x] Finalizar projeto
